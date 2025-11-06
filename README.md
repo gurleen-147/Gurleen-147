@@ -1,36 +1,49 @@
-
-# 👋 Hey there! I’m Gurleen | Cybersecurity Enthusiast
-
+# 👋 Hi, I’m Gurleen | Cybersecurity Enthusiast
 
 
-## 🚀 About Me
-I love **breaking things ethically** to understand how systems work and how to secure them. My labs and projects focus on **practical vulnerabilities, exploit proof-of-concepts, and network analysis**.
+## 🔒 About Me
+I am a detail-oriented and proactive **cybersecurity enthusiast** with hands-on experience in **SIEM, SOAR, endpoint management, and network monitoring tools**. I have a strong foundation in **security analysis, incident response, vulnerability assessment, and threat management**, complemented by industry-recognized certifications.  
 
-- 🎓 Google Cybersecurity Professional Certificate  
-- 🛡️ CompTIA Security+ Certified  
-- 🐍 Python | 💻 Linux | 🌐 Networking  
-- 🏴 TryHackMe Labs for hands-on learning
-- - 🏆 [Credly Certifications](https://www.credly.com/users/gurleen-kaur.d40dbd62/edit#credly) 
+I enjoy practical, lab-based learning environments, including **TryHackMe**, and continuously strengthen my skills in **Python scripting, Windows and Linux administration, and ethical hacking**.
 
 ---
 
-## 🧰 Skills
-- **Python:** Scripting, automation, exploits  
-- **Linux / Windows:** System analysis, vulnerability research  
-- **Networking & Security Tools:** Wireshark, SMB monitoring, protocol analysis  
-- **Ethical Hacking Labs:** TryHackMe, Metasploit exercises
+## ⚙️ Skills & Tools
+
+| 🛠️ Tools / Languages | 🔍 Focus Areas |
+|----------------------|----------------|
+| 🐍 Python            | Scripting & Automation |
+| 💻 Linux / Windows   | System Administration & Hardening |
+| 🧰 Metasploit         | Controlled Exploits & Penetration Testing |
+| 🌐 Networking        | Wireshark, Nmap, tcpdump, SMB Analysis |
+| 🏴 TryHackMe Labs     | Hands-on Cybersecurity Learning |
+| 🔒 Security Frameworks | Risk Mitigation & Compliance Awareness |
+| 🖥️ Microsoft Intune  | Endpoint & Device Management |
 
 ---
 
-## 📂 Featured Projects
-Check out my GitHub for PoCs, lab exercises, and more:  
+## 📁 Projects & Labs
+Explore my repositories for **PoCs, lab exercises, and hands-on projects**:  
 [➡ My Projects](https://github.com/gurleen-147?tab=repositories)
 
+**Selected Training & Labs:**  
+- **Active Directory & Windows Server Administration** — User, group, and GPO management; domain authentication and permissions.  
+- **Microsoft Intune Training (Udemy)** — Device enrollment, compliance policies, endpoint security, and application deployment.  
+- **TryHackMe Labs (Ongoing)** — Network reconnaissance, penetration testing, log analysis, event correlation, and simulated attacks.
+
 ---
 
-## 📫 Let's Connect
+## 📚Education
+- Diploma in Computer Studies - Langara College Vancouver
+
+## 🏆 Certifications
+- **CompTIA Security+** (2025)  
+- **Google Cybersecurity Professional Certificate** (2025)  
+- **Credly Certifications:** [credly.com/users/gurleen-kaur.d40dbd62/edit#credly](https://www.credly.com/users/gurleen-kaur.d40dbd62/edit#credly)
+
+---
+
+## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gurleen-kaur-434019305/)  
-
----
 
 
