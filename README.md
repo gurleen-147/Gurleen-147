@@ -43,6 +43,8 @@ Explore my repositories for **PoCs, lab exercises, and hands-on projects**:
 ---
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gurleen-kaur-434019305/)  
+- 🔗 LinkedIn: [Gurleen](https://www.linkedin.com/in/gurleen-kaur-434019305/)
+- 📧 Email: <a href="mailto:109gkaur@gmail.com">109gkaur@gmail.com</a>
+
 
 
