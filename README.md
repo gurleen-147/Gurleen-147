@@ -1,8 +1,6 @@
-# 👋 Hi, I’m Gurleen | Cybersecurity Enthusiast
-
-
-## 🔒 About Me
-I am a detail-oriented and proactive **cybersecurity enthusiast** with hands-on experience in **SIEM, SOAR, endpoint management, and network monitoring tools**. I have a strong foundation in **security analysis, incident response, vulnerability assessment, and threat management**, complemented by industry-recognized certifications.  
+# 👋 Hi there
+## I’m Gurleen 
+I am **cybersecurity enthusiast** with hands-on experience in **SIEM, SOAR, endpoint management, and network monitoring tools**. I have a strong foundation in **security analysis, incident response, vulnerability assessment, and threat management**, complemented by industry-recognized certifications.  
 
 I enjoy practical, lab-based learning environments, including **TryHackMe**, and continuously strengthen my skills in **Python scripting, Windows and Linux administration, and ethical hacking**.
 
