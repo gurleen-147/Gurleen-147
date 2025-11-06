@@ -16,7 +16,6 @@ I enjoy practical, lab-based learning environments, including **TryHackMe**, and
 | 💻 Linux / Windows   | System Administration & Hardening |
 | 🧰 Metasploit         | Controlled Exploits & Penetration Testing |
 | 🌐 Networking        | Wireshark, Nmap, tcpdump |
-| 🏴 TryHackMe Labs     | Hands-on Cybersecurity Learning |
 | 🔒 Security Frameworks | Risk Mitigation & Compliance Awareness |
 | 🖥️ Microsoft Intune  | Endpoint & Device Management |
 
