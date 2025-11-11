@@ -16,12 +16,12 @@ I enjoy practical, lab-based learning environments, including **TryHackMe**, and
 
 | 🛠️ Tools / Languages | 🔍 Focus Areas |
 |----------------------|----------------|
-| 🐍 Python            | Scripting & Automation |
-| 💻 Linux / Windows   | System Administration & Hardening |
-| 🧰 Metasploit         | Controlled Exploits & Penetration Testing |
-| 🌐 Networking        | Wireshark, Nmap, tcpdump |
-| 🔒 Security Frameworks | Risk Mitigation & Compliance Awareness |
-| 🖥️ Microsoft Intune  | Endpoint & Device Management |
+|  Python            | Scripting & Automation |
+|  Linux / Windows   | System Administration & Hardening |
+|  Metasploit         | Controlled Exploits & Penetration Testing |
+|  Networking        | Wireshark, Nmap, tcpdump |
+|  Security Frameworks | Risk Mitigation & Compliance Awareness |
+|  Microsoft Intune  | Endpoint & Device Management |
 
 ---
 
