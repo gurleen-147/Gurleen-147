@@ -27,10 +27,14 @@ I enjoy practical, lab-based learning environments, including **TryHackMe**, and
 Explore my repositories for **PoCs, lab exercises, and hands-on projects**:  
 [➡ My Projects](https://github.com/gurleen-147?tab=repositories)
 
+
+[➡ My Labs](https://tryhackme.com/p/gikr)
+
 **Selected Training & Labs:**  
 - **Active Directory & Windows Server Administration** — User, group, and GPO management; domain authentication and permissions.  
 - **Microsoft Intune Training (Udemy)** — Device enrollment, compliance policies, endpoint security, and application deployment.  
 - **TryHackMe Labs (Ongoing)** — Network reconnaissance, penetration testing, log analysis, event correlation, and simulated attacks.
+  
 ---
 
 ## 📚Education
@@ -46,6 +50,7 @@ Explore my repositories for **PoCs, lab exercises, and hands-on projects**:
 ## 📫 Connect with Me
 - 🔗 LinkedIn: [Gurleen](https://www.linkedin.com/in/gurleen-kaur-434019305/)
 - 📧 Email: <a href="mailto:109gkaur@gmail.com">109gkaur@gmail.com</a>
+
 
 
 
