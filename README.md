@@ -31,7 +31,6 @@ Explore my repositories for **PoCs, lab exercises, and hands-on projects**:
 - **Active Directory & Windows Server Administration** — User, group, and GPO management; domain authentication and permissions.  
 - **Microsoft Intune Training (Udemy)** — Device enrollment, compliance policies, endpoint security, and application deployment.  
 - **TryHackMe Labs (Ongoing)** — Network reconnaissance, penetration testing, log analysis, event correlation, and simulated attacks.
-<img src="https://tryhackme-badges.s3.amazonaws.com/gikr.png" alt="Your Image Badge" />
 ---
 
 ## 📚Education
