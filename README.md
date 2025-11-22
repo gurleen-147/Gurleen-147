@@ -16,20 +16,23 @@ I enjoy practical, lab-based learning environments, including **TryHackMe**, and
 ---
 
 
-## 📁 Projects & Labs
-Explore my repositories for **PoCs, lab exercises, and hands-on projects**:  
-[➡ Projects](https://github.com/gurleen-147?tab=repositories)
+### 🖥 Projects & Labs
+> Where I experiment, learn, and build hands-on skills
 
+| 🔹 **Projects**     | 🧪 **Labs** | 🎓 **Certifications** |
+|---------------------|------------|---------------------|
+| [GitHub Repos](https://github.com/gurleen-147?tab=repositories)     | [TryHackMe Labs](https://tryhackme.com/p/gikr) | [View on Credly](https://www.credly.com/users/gurleen-kaur.d40dbd62/edit#credly) |
 
-[➡ Labs](https://tryhackme.com/p/gikr)
-
- **Certifications:** [credly.com/users/gurleen-kaur.d40dbd62/edit#credly](https://www.credly.com/users/gurleen-kaur.d40dbd62/edit#credly)
 
 ---
 
-## 📫 Connect with Me
-- 🔗 LinkedIn: [Gurleen](https://www.linkedin.com/in/gurleen-kaur-434019305/)
-- 📧 Email: <a href="mailto:109gkaur@gmail.com">109gkaur@gmail.com</a>
+### 📫 Connect with Me
+
+- 🔗 **LinkedIn:** [Gurleen Kaur](https://www.linkedin.com/in/gurleen-kaur-434019305/)
+- 📧 **Email:** [109gkaur@gmail.com](mailto:109gkaur@gmail.com)
+
+
+
 
 
 
