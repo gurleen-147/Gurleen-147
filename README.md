@@ -1,8 +1,10 @@
 
-                                                                                       
+![name](/name_crawling_bug.gif)                                                                                       
 <p align="center">
   <b>Hello!</b>
 </p>
+
+
                                                                                   
 I am **cybersecurity enthusiast** with hands-on experience in **SIEM, SOAR, endpoint management, and network monitoring tools**. I have a strong foundation in **security analysis, incident response, vulnerability assessment, and threat management**, complemented by industry-recognized certifications.  
 
