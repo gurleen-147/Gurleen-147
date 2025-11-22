@@ -14,14 +14,9 @@ I am **cybersecurity enthusiast** with hands-on experience in **SIEM, SOAR, endp
 I enjoy practical, lab-based learning environments, including **TryHackMe**, and continuously strengthen my skills in **Python scripting, Windows and Linux administration, and ethical hacking**. </p>
 
 ---
-
-
-### 🖥 Projects & Labs
-> Where I experiment, learn, and build hands-on skills
-
-| 🔹 **Projects**     | 🧪 **Labs** | 🎓 **Certifications** |
-|---------------------|------------|---------------------|
-| [GitHub Repos](https://github.com/gurleen-147?tab=repositories)     | [TryHackMe Labs](https://tryhackme.com/p/gikr) | [View on Credly](https://www.credly.com/users/gurleen-kaur.d40dbd62/edit#credly) |
+[![Projects](https://img.shields.io/badge/Projects-GitHub-pink?style=for-the-badge&logo=github)](https://github.com/gurleen-147?tab=repositories)
+[![Labs](https://img.shields.io/badge/Labs-TryHackMe-hotgreen?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/gikr)
+[![Certifications](https://img.shields.io/badge/Certifications-Credly-blue?style=for-the-badge)](https://www.credly.com/users/gurleen-kaur.d40dbd62/edit#credly)
 
 
 ---
