@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="/name.gif" />
+</p>
 
-![name](/name.gif)   
 ---
 
 
