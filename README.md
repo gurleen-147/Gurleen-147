@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="/name.gif" />
-</p>
-
----
-
 
 <p align="center">
   <b>Hello!</b>
