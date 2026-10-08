@@ -17,8 +17,8 @@ I enjoy exploring IT and cybersecurity, continuously learning and applying knowl
 
 ### 📫 Connect with Me
 
-- 🔗 **LinkedIn:** [Gurleen Kaur](https://www.linkedin.com/in/gurleen-kaur92/)
-- 📧 **Email:** [gurleenkaur0@proton.me](mailto:gurleenkaur0@proton.me)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/gurleen-kaur92/)
+- 📧 [**Email**](mailto:gurleenkaur0@proton.me)
 
 
 
