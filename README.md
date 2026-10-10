@@ -17,8 +17,10 @@ I enjoy exploring IT and cybersecurity, continuously learning and applying knowl
 
 ### 📫 Connect with Me
 
+- 🖥️ [**Portfolio**](https://gurleen-147.github.io/)
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/gurleen-kaur92/)
 - 📧 [**Email**](mailto:gurleenkaur0@proton.me)
+
 
 
 
